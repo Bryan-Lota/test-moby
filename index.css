@@ -2337,10 +2337,4 @@
 
 
 
-/* Adjust styles for larger screens */
-@media (min-width: 710px) {
-  body {
-      max-width: 720px;
-  }
-
   
